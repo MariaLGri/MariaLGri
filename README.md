@@ -17,10 +17,7 @@
   <a href="mailto:panch-maria@yandex.ru">
     <img src="https://img.shields.io/badge/Yandex_Почта-FF0000?style=for-the-badge&logo=yandex&logoColor=white" alt="Email">
   </a>
-  <a href="https://career.habr.com/">
-    <img src="https://img.shields.io/badge/Habr_Career-77A2B6?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Career">
-  </a>
-  <a href="https://github.com/tyulyaeva">
+  <a href="https://github.com/MariaLGri">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
