@@ -20,7 +20,7 @@
 ---
 
 
-### 🎯 Учебные проекты (Реализованы во время обучения в Школе инженеров по автоматизации тестирования qa.guru)
+### 🎯 Мои дипломные проекты ( Реализованы во время обучения в Школе инженеров по автоматизации тестирования qa.guru )
 <div style="background: linear-gradient(135deg, #f6f9fc 0%, #eef2f5 100%); padding: 20px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
 
 <table>
@@ -51,7 +51,7 @@
 ---
 
 
-### 🛠 Технологический стек, освоеный при обучени
+### 🛠 Технологический стек, освоенный при обучении
 <p align="center" style="background-color: #f8f9fa; padding: 15px; border-radius: 8px;">
   <img width="6%" title="IntelliJ IDEA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
   <img width="6%" title="RestAssured" src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4">
