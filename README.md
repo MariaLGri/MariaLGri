@@ -88,9 +88,6 @@
   <img src="https://img.shields.io/badge/Repos-8-ff6b6b?style=flat-square" alt="Репозитории">
 </div>
 
-<!-- Streak статистика -->
-<div style="margin-top: 15px;">
-  <img src="https://streak-stats.demolab.com?user=MariaLGri&theme=default&border=dee2e6&background=f8f9fa&dates=6c757d&stroke=dee2e6&ring=4a6fa5&fire=ff6b6b&currStreakNum=495057&sideNums=495057&currStreakLabel=Streak" alt="Активность" width="400">
-</div>
-
+### Моя активность
+![Streak](https://streak-stats.demolab.com?user=MariaLGri&theme=default)
 </div>
