@@ -25,9 +25,8 @@
   <img width="6%" title="IntelliJ IDEA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
   <img width="6%" title="RestAssured" src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4">
   <img width="6%" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img width="6%" title="Selenide" src="https://selenide.org/images/selenide-logo-big.png">
+  <img width="8%" title="Selenide" src="https://selenide.org/images/selenide-logo-big.png">
   <img width="6%" title="Selenoid" src="icon/Selenoid.svg">
-  <img width="6%" title="Android Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
   <img width="6%" title="Appium inspector" src="icon/appium_inspector.png">
   <img width="6%" title="Allure Report" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4">
   <img width="6%" title="Allure TestOps" src="icon/Allure_TO.svg">
@@ -36,7 +35,6 @@
   <img width="6%" title="JUnit5" src="https://junit.org/junit5/assets/img/junit5-logo.png">
   <img width="6%" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img width="6%" title="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
-  <img width="6%" title="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
 </p>
 
 ---
