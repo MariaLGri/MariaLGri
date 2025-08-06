@@ -6,15 +6,15 @@
 ---
 
 ### 📍 Контакты
-<p align="center">
+<p align="center" style="background-color: #f8f9fa; padding: 12px; border-radius: 8px;">
   <a href="https://t.me/mariyalgri">
-    <img src="https://img.shields.io/badge/-Telegram-2d96e8?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/-Telegram-7a7a7a?style=for-the-badge&logo=telegram&logoColor=white&labelColor=ececec" alt="Telegram">
   </a>
   <a href="mailto:panch-maria@yandex.ru">
-    <img src="https://img.shields.io/badge/-Email-ff6b6b?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/-Email-7a7a7a?style=for-the-badge&logo=mail.ru&logoColor=white&labelColor=ececec" alt="Email">
   </a>
   <a href="https://github.com/MariaLGri">
-    <img src="https://img.shields.io/badge/-GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/-GitHub-7a7a7a?style=for-the-badge&logo=github&logoColor=white&labelColor=ececec" alt="GitHub">
   </a>
 </p>
 
@@ -40,26 +40,26 @@
 ---
 
 ### 🎯 Проекты (school.qa.guru)
-<div style="background-color: #f8f9fa; padding: 15px; border-radius: 8px;">
+<div style="background: linear-gradient(135deg, #f6f9fc 0%, #eef2f5 100%); padding: 20px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
 
 <table>
   <tr>
-    <td width="33%">
-      <h4 style="color: #4a6fa5;">🌐 UI Автотесты</h4>
+    <td width="33%" style="padding: 0 10px;">
+      <h3 style="color: #3a7bd5; font-size: 1.3rem; margin-bottom: 12px; font-weight: 600;">🌐 UI Автотесты</h3>
       <a href="https://github.com/MariaLGri/UI_final_project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MariaLGri&repo=UI_final_project&theme=default&bg_color=f8f9fa&title_color=4a6fa5&text_color=495057" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MariaLGri&repo=UI_final_project&theme=default&bg_color=f6f9fc&title_color=3a7bd5&text_color=2d3748&border_color=cbd5e0" />
       </a>
     </td>
-    <td width="33%">
-      <h4 style="color: #4a6fa5;">🔌 API Тесты</h4>
+    <td width="33%" style="padding: 0 10px;">
+      <h3 style="color: #00d2ff; font-size: 1.3rem; margin-bottom: 12px; font-weight: 600;">🔌 API Тесты</h3>
       <a href="https://github.com/MariaLGri/Api_final_project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MariaLGri&repo=Api_final_project&theme=default&bg_color=f8f9fa&title_color=4a6fa5&text_color=495057" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MariaLGri&repo=Api_final_project&theme=default&bg_color=f6f9fc&title_color=00d2ff&text_color=2d3748&border_color=cbd5e0" />
       </a>
     </td>
-    <td width="33%">
-      <h4 style="color: #4a6fa5;">📱 Mobile Тесты</h4>
+    <td width="33%" style="padding: 0 10px;">
+      <h3 style="color: #6a11cb; font-size: 1.3rem; margin-bottom: 12px; font-weight: 600;">📱 Mobile Тесты</h3>
       <a href="https://github.com/MariaLGri/mobile_automation_final_project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MariaLGri&repo=mobile_automation_final_project&theme=default&bg_color=f8f9fa&title_color=4a6fa5&text_color=495057" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MariaLGri&repo=mobile_automation_final_project&theme=default&bg_color=f6f9fc&title_color=6a11cb&text_color=2d3748&border_color=cbd5e0" />
       </a>
     </td>
   </tr>
