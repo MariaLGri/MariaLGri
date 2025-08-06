@@ -66,16 +66,29 @@
 </table>
 
 ---
+### 📊 Статистика GitHub
 
-### 📊 Статистика
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariaLGri&show_icons=true&bg_color=00000000&title_color=7a7a7a&text_color=9a9a9a&icon_color=5a5a5a&hide_border=true)
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaLGri&layout=compact&bg_color=00000000&title_color=7a7a7a&text_color=9a9a9a&hide_border=true)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=MariaLGri&show_icons=true&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&bg_color=0d1117&hide_border=false&include_all_commits=true&count_private=true&custom_title=Моя+активность" alt="GitHub Stats" style="max-width: 100%;">
+</div>
+
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaLGri&layout=compact&theme=transparent&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&bg_color=0d1117&hide_border=false&langs_count=6&custom_title=Используемые+языки" alt="Top Languages" style="max-width: 100%;">
+</div>
+
+<div>
+  <img src="https://streak-stats.demolab.com?user=MariaLGri&theme=github-dark&border=30363d&background=0d1117&dates=c9d1d9&stroke=30363d&ring=58a6ff&fire=ff6e96&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff" alt="GitHub Streak" style="max-width: 100%;">
+</div>
 
 </div>
 
-<div align="center" style="margin-top: 30px;">
-  <img src="https://komarev.com/ghpvc/?username=MariaLGri&color=7a7a7a&style=flat-square" alt="Просмотры" />
+<div align="center" style="margin-top: 20px; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+
+![Просмотры профиля](https://komarev.com/ghpvc/?username=MariaLGri&color=58a6ff&style=flat-square&label=ПРОСМОТРЫ)
+![Подписчики](https://img.shields.io/github/followers/MariaLGri?color=58a6ff&label=ПОДПИСЧИКИ&style=flat-square)
+![Репозитории](https://img.shields.io/badge/РЕПОЗИТОРИИ-8-58a6ff?style=flat-square)
+
 </div>
