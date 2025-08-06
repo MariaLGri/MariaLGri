@@ -1,5 +1,5 @@
 <div align="center" style="background-color: #f8f9fc; padding: 20px; border-radius: 10px; border: 1px solid #eaeef5;">
-  <h1 style="font-size: 2.5rem; color: #7a93b5; margin-bottom: 10px; font-weight: 500; letter-spacing: 0.5px;">Привет, я Мария Гришина</h1>
+  <h1 style="font-size: 2.5rem; color: #7a93b5; margin-bottom: 10px; font-weight: 500; letter-spacing: 0.5px;">Привет! Меня зовут Мария.</h1>
   <h2 style="font-size: 1.8rem; color: #8d99a6; margin-top: 0; font-weight: 400;">QA Engineer</h2>
 </div>
 
@@ -19,26 +19,8 @@
 
 ---
 
-### 🛠 Технологический стек
-<p align="center" style="background-color: #f8f9fa; padding: 15px; border-radius: 8px;">
-  <img width="6%" title="IntelliJ IDEA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
-  <img width="6%" title="RestAssured" src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4">
-  <img width="6%" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img width="8%" title="Selenide" src="https://selenide.org/images/selenide-logo-big.png">
-  <img width="6%" title="Selenoid" src="icon/Selenoid.svg">
-  <img width="6%" title="Appium inspector" src="icon/appium_inspector.png">
-  <img width="6%" title="Allure Report" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4">
-  <img width="6%" title="Allure TestOps" src="icon/Allure_TO.svg">
-  <img width="6%" title="Gradle" src="icon/Gradle.svg">
-  <img width="6%" title="Appium" src="icon/Appium.svg">
-  <img width="6%" title="JUnit5" src="https://junit.org/junit5/assets/img/junit5-logo.png">
-  <img width="6%" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img width="6%" title="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
-</p>
 
----
-
-### 🎯 Проекты (school.qa.guru)
+### 🎯 Учебные проекты (Реализованы во время обучения в Школе инженеров по автоматизации тестирования qa.guru)
 <div style="background: linear-gradient(135deg, #f6f9fc 0%, #eef2f5 100%); padding: 20px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
 
 <table>
@@ -65,6 +47,26 @@
 </table>
 
 </div>
+
+---
+
+
+### 🛠 Технологический стек, освоеный при обучени
+<p align="center" style="background-color: #f8f9fa; padding: 15px; border-radius: 8px;">
+  <img width="6%" title="IntelliJ IDEA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+  <img width="6%" title="RestAssured" src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4">
+  <img width="6%" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img width="8%" title="Selenide" src="https://selenide.org/images/selenide-logo-big.png">
+  <img width="6%" title="Selenoid" src="icon/Selenoid.svg">
+  <img width="6%" title="Appium inspector" src="icon/appium_inspector.png">
+  <img width="6%" title="Allure Report" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4">
+  <img width="6%" title="Allure TestOps" src="icon/Allure_TO.svg">
+  <img width="6%" title="Gradle" src="icon/Gradle.svg">
+  <img width="6%" title="Appium" src="icon/Appium.svg">
+  <img width="6%" title="JUnit5" src="https://junit.org/junit5/assets/img/junit5-logo.png">
+  <img width="6%" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img width="6%" title="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
+</p>
 
 ---
 
