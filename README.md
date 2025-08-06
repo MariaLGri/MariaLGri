@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2800&pause=800&color=7A7A7A&background=FFFFFF00&width=435&lines=Привет%2C+я+Мария+Гришина;QA+Automation+Engineer" alt="Приветствие" />
+  <h1 style="font-size: 2.5rem; color: #5A5A5A; margin-bottom: 10px;">Привет, я Мария Гришина</h1>
+  <h2 style="font-size: 1.8rem; color: #7A7A7A; margin-top: 0;">QA Engineer</h2>
 </div>
+
 
 ---
 
@@ -21,15 +23,25 @@
 
 ### 🛠 Технологический стек
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-181818?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Selenide-181818?style=flat-square&logo=selenium&logoColor=white" alt="Selenide">
-  <img src="https://img.shields.io/badge/Appium-181818?style=flat-square&logo=appium&logoColor=white" alt="Appium">
-  <img src="https://img.shields.io/badge/Allure-181818?style=flat-square&logo=allure&logoColor=white" alt="Allure">
-  <img src="https://img.shields.io/badge/Jenkins-181818?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins">
-  <img src="https://img.shields.io/badge/JUnit5-181818?style=flat-square&logo=junit5&logoColor=white" alt="JUnit5">
+  <img width="6%" title="IntelliJ IDEA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+  <img width="6%" title="RestAssured" src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4">
+  <img width="6%" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img width="6%" title="Selenide" src="https://selenide.org/images/selenide-logo-big.png">
+  <img width="6%" title="Selenoid" src="https://aerokube.com/selenoid/images/selenoid-logo-small.png">
+  <img width="6%" title="Android Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+  <img width="6%" title="Appium inspector" src="https://appium.io/images/appium-logo.png">
+  <img width="6%" title="Allure Report" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4">
+  <img width="5%" title="Allure TestOps" src="https://qameta.io/wp-content/themes/qameta/img/allure-testops.svg">
+  <img width="6%" title="Gradle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg">
+  <img width="6%" title="Appium" src="https://appium.io/images/appium-logo.png">
+  <img width="6%" title="JUnit5" src="https://junit.org/junit5/assets/img/junit5-logo.png">
+  <img width="6%" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img width="6%" title="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
+  <img width="5%" title="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
 </p>
 
 ---
+
 
 ### 🎯 Проекты
 
