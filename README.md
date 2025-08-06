@@ -1,27 +1,27 @@
-<div align="center">
-  <h1 style="font-size: 2.5rem; color: #5A5A5A; margin-bottom: 10px;">Привет, я Мария Гришина</h1>
-  <h2 style="font-size: 1.8rem; color: #7A7A7A; margin-top: 0;">QA Engineer</h2>
+<div align="center" style="background-color: #f5f7fa; padding: 20px; border-radius: 10px;">
+  <h1 style="font-size: 2.5rem; color: #4a6fa5; margin-bottom: 10px;">Привет, я Мария Гришина</h1>
+  <h2 style="font-size: 1.8rem; color: #6c757d; margin-top: 0;">QA Engineer</h2>
 </div>
-
 
 ---
 
 ### 📍 Контакты
 <p align="center">
   <a href="https://t.me/mariyalgri">
-    <img src="https://img.shields.io/badge/-Telegram-181818?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/-Telegram-2d96e8?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="mailto:panch-maria@yandex.ru">
-    <img src="https://img.shields.io/badge/-Email-181818?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/-Email-ff6b6b?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/MariaLGri">
-    <img src="https://img.shields.io/badge/-GitHub-181818?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/-GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
 ---
+
 ### 🛠 Технологический стек
-<p align="center">
+<p align="center" style="background-color: #f8f9fa; padding: 15px; border-radius: 8px;">
   <img width="6%" title="IntelliJ IDEA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
   <img width="6%" title="RestAssured" src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4">
   <img width="6%" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -39,56 +39,56 @@
 
 ---
 
-
 ### 🎯 Проекты (school.qa.guru)
+<div style="background-color: #f8f9fa; padding: 15px; border-radius: 8px;">
 
 <table>
   <tr>
     <td width="33%">
-      <h4>🌐 UI Автотесты</h4>
+      <h4 style="color: #4a6fa5;">🌐 UI Автотесты</h4>
       <a href="https://github.com/MariaLGri/UI_final_project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MariaLGri&repo=UI_final_project&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MariaLGri&repo=UI_final_project&theme=default&bg_color=f8f9fa&title_color=4a6fa5&text_color=495057" />
       </a>
     </td>
     <td width="33%">
-      <h4>🔌 API Тесты</h4>
+      <h4 style="color: #4a6fa5;">🔌 API Тесты</h4>
       <a href="https://github.com/MariaLGri/Api_final_project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MariaLGri&repo=Api_final_project&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MariaLGri&repo=Api_final_project&theme=default&bg_color=f8f9fa&title_color=4a6fa5&text_color=495057" />
       </a>
     </td>
     <td width="33%">
-      <h4>📱 Mobile Тесты</h4>
+      <h4 style="color: #4a6fa5;">📱 Mobile Тесты</h4>
       <a href="https://github.com/MariaLGri/mobile_automation_final_project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MariaLGri&repo=mobile_automation_final_project&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MariaLGri&repo=mobile_automation_final_project&theme=default&bg_color=f8f9fa&title_color=4a6fa5&text_color=495057" />
       </a>
     </td>
   </tr>
 </table>
 
+</div>
+
 ---
+
 ### 📊 Статистика GitHub
+<div align="center" style="background-color: #f8f9fa; padding: 20px; border-radius: 8px;">
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=MariaLGri&show_icons=true&theme=default&title_color=4a6fa5&text_color=495057&icon_color=6e5494&border_color=dee2e6&bg_color=f8f9fa&hide_border=true&include_all_commits=true&count_private=true&custom_title=Моя+активность" alt="GitHub Stats">
+  </div>
+
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaLGri&layout=compact&theme=default&title_color=4a6fa5&text_color=495057&border_color=dee2e6&bg_color=f8f9fa&hide_border=true&langs_count=6&custom_title=Используемые+языки" alt="Top Languages">
+  </div>
+</div>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=MariaLGri&show_icons=true&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&bg_color=0d1117&hide_border=false&include_all_commits=true&count_private=true&custom_title=Моя+активность" alt="GitHub Stats" style="max-width: 100%;">
+  <img src="https://streak-stats.demolab.com?user=MariaLGri&theme=default&border=dee2e6&background=f8f9fa&dates=6c757d&stroke=dee2e6&ring=4a6fa5&fire=ff6b6b&currStreakNum=495057&sideNums=495057&currStreakLabel=4a6fa5" alt="GitHub Streak">
 </div>
 
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaLGri&layout=compact&theme=transparent&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&bg_color=0d1117&hide_border=false&langs_count=6&custom_title=Используемые+языки" alt="Top Languages" style="max-width: 100%;">
+<div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;">
+  <img src="https://komarev.com/ghpvc/?username=MariaLGri&color=4a6fa5&style=flat-square&label=Views" alt="Просмотры">
+  <img src="https://img.shields.io/github/followers/MariaLGri?color=6e5494&style=flat-square&label=Followers" alt="Подписчики">
+  <img src="https://img.shields.io/badge/Repos-8-ff6b6b?style=flat-square" alt="Репозитории">
 </div>
-
-<div>
-  <img src="https://streak-stats.demolab.com?user=MariaLGri&theme=github-dark&border=30363d&background=0d1117&dates=c9d1d9&stroke=30363d&ring=58a6ff&fire=ff6e96&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff" alt="GitHub Streak" style="max-width: 100%;">
-</div>
-
-</div>
-
-<div align="center" style="margin-top: 20px; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-
-![Просмотры профиля](https://komarev.com/ghpvc/?username=MariaLGri&color=58a6ff&style=flat-square&label=ПРОСМОТРЫ)
-![Подписчики](https://img.shields.io/github/followers/MariaLGri?color=58a6ff&label=ПОДПИСЧИКИ&style=flat-square)
-![Репозитории](https://img.shields.io/badge/РЕПОЗИТОРИИ-8-58a6ff?style=flat-square)
-
 </div>
