@@ -1,20 +1,19 @@
-<div align="center" style="background-color: #f5f7fa; padding: 20px; border-radius: 10px;">
-  <h1 style="font-size: 2.5rem; color: #4a6fa5; margin-bottom: 10px;">Привет, я Мария Гришина</h1>
-  <h2 style="font-size: 1.8rem; color: #6c757d; margin-top: 0;">QA Engineer</h2>
+<div align="center" style="background-color: #f8f9fc; padding: 20px; border-radius: 10px; border: 1px solid #eaeef5;">
+  <h1 style="font-size: 2.5rem; color: #7a93b5; margin-bottom: 10px; font-weight: 500; letter-spacing: 0.5px;">Привет, я Мария Гришина</h1>
+  <h2 style="font-size: 1.8rem; color: #8d99a6; margin-top: 0; font-weight: 400;">QA Engineer</h2>
 </div>
 
 ---
-
 ### 📍 Контакты
-<p align="center" style="background-color: #f8f9fa; padding: 12px; border-radius: 8px;">
+<p align="center" style="background-color: #f5f7fa; padding: 10px; border-radius: 8px;">
   <a href="https://t.me/mariyalgri">
-    <img src="https://img.shields.io/badge/-Telegram-7a7a7a?style=for-the-badge&logo=telegram&logoColor=white&labelColor=ececec" alt="Telegram">
+    <img src="https://img.shields.io/badge/-Telegram-8aa2c7?style=for-the-badge&logo=telegram&logoColor=white&labelColor=e8edf7" alt="Telegram">
   </a>
   <a href="mailto:panch-maria@yandex.ru">
-    <img src="https://img.shields.io/badge/-Email-7a7a7a?style=for-the-badge&logo=mail.ru&logoColor=white&labelColor=ececec" alt="Email">
+    <img src="https://img.shields.io/badge/-Email-b88a8a?style=for-the-badge&logo=mail.ru&logoColor=white&labelColor=f7e8e8" alt="Email">
   </a>
   <a href="https://github.com/MariaLGri">
-    <img src="https://img.shields.io/badge/-GitHub-7a7a7a?style=for-the-badge&logo=github&logoColor=white&labelColor=ececec" alt="GitHub">
+    <img src="https://img.shields.io/badge/-GitHub-9a8cb1?style=for-the-badge&logo=github&logoColor=white&labelColor=f0e8f7" alt="GitHub">
   </a>
 </p>
 
