@@ -27,13 +27,13 @@
   <img width="6%" title="RestAssured" src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4">
   <img width="6%" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img width="6%" title="Selenide" src="https://selenide.org/images/selenide-logo-big.png">
- <img width="6%" alt="Selenoid" src="https://aerokube.com/images/selenoid.svg">
+<img width="20%" alt="Selenoid" src="https://github.com/aerokube/images/raw/main/selenoid.svg">
   <img width="6%" title="Android Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
   <img width="6%" title="Appium inspector" src="https://appium.io/images/appium-logo.png">
   <img width="6%" title="Allure Report" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4">
   <img width="5%" title="Allure TestOps" src="https://qameta.io/wp-content/themes/qameta/img/allure-testops.svg">
-  <img width="6%" alt="Gradle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg">
-  <img width="6%" alt="Appium" src="https://appium.github.io/appium/assets/images/appium-logo.png">
+  <img width="20%" alt="Gradle" src="https://github.com/devicons/devicon/raw/master/icons/gradle/gradle-plain.svg">
+  <img width="20%" alt="Appium" src="https://github.com/appium/appium/raw/master/docs/assets/images/appium-logo.png">
   <img width="6%" title="JUnit5" src="https://junit.org/junit5/assets/img/junit5-logo.png">
   <img width="6%" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img width="6%" title="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
